@@ -8,4 +8,4 @@ Johnny Xu(徐景周)
 Future Studio
 
 Demo  
-<img src="https://github.com/xujingzhou/PhotoBeautify/blob/master/Resource/Demo/Demo.gif" width = "500" height = "300" alt="Demo" align=center />
+<img src="https://github.com/xujingzhou/PhotoBeautify/tree/master/Resource/Demo/Demo.gif" width = "500" height = "300" alt="Demo" align=center />
