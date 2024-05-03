@@ -7,5 +7,6 @@ Multi themes convert photos into video, convenient for review.
 Demo  
 https://www.kuaishou.com/short-video/3xeu2fepfjf5zda     
 
+Copyright and all rights therein are retained by authors or by other copyright holders.  
 Johnny Xu(徐景周)  
 Future Studio
